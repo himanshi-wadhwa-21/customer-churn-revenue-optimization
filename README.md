@@ -55,3 +55,14 @@ The objective is to identify customer segments associated with higher churn and 
 ## Skills Used
 
 Excel, SQL, PostgreSQL, Python, Pandas, Matplotlib, Data Analysis, Business Analysis
+
+## Dashboard
+
+![Excel Dashboard](screenshots/excel%20dashboard.png)
+
+## Project Structure
+
+- `Excel/` – Excel analysis and dashboard
+- `SQL/` – PostgreSQL queries and analysis
+- `Python/` – Python notebook with analysis and visualizations
+- `screenshots/` – Selected analysis and dashboard screenshots
